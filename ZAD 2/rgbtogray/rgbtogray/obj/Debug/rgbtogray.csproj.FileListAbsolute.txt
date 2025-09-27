@@ -1,0 +1,11 @@
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\rgbtogray.exe.config
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\rgbtogray.exe
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\rgbtogray.pdb
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\System.Drawing.Common.dll
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\System.Drawing.Common.pdb
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\bin\Debug\System.Drawing.Common.xml
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\obj\Debug\rgbtogray.csproj.AssemblyReference.cache
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\obj\Debug\rgbtogray.csproj.CoreCompileInputs.cache
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\obj\Debug\rgbtogray.csproj.CopyComplete
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\obj\Debug\rgbtogray.exe
+C:\Users\MATEJA\Desktop\rgbtogray\rgbtogray\obj\Debug\rgbtogray.pdb
